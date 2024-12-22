@@ -7,4 +7,4 @@ tags:
 
 # First Listing
 
-This is an example listing to get started.
+This is an example listing to get started
