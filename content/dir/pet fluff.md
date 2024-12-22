@@ -1,41 +1,35 @@
 ---
-title: "Fluffy Paws Pet Salon" 
-description: "Caring and professional grooming for dogs of all breeds. Specializing in gentle handling and breed-specific cuts."
-card_image: /listing/fluffy-paws.jpg 
+title: "Trimsalon Royalty Dogs Assen"
+description: "Pet Groomer in Assen, Netherlands" 
+card_image: /listing/trimsalon-royalty-dogs-assen.jpg  
 tags:
-  - dog grooming
-  - cat grooming
-  - nail trimming
-  - de-shedding
-  - mobile grooming 
+  - pet grooming 
+  - dog grooming 
+  - assen
 ---
 
-## Fluffy Paws Pet Salon 
+## Trimsalon Royalty Dogs Assen
 
 **About Us**
 
-Fluffy Paws Pet Salon is a full-service grooming salon dedicated to providing a stress-free and enjoyable experience for your furry friend. Our experienced groomers are passionate about pets and use only the highest quality products.
+[Add a short description of the business here. You can usually find this on their website or Facebook page. If no information is available, consider a simple statement like "Professional pet grooming services in Assen."]
 
-**Services Offered:**
+**Services Offered:** 
 
-* Full-service grooming (bath, dry, haircut, nail trim, ear cleaning)
-* Breed-specific cuts
-* De-shedding treatments
-* Nail trimming
-* Mobile grooming (we come to you!)
+[If you have details about their services, list them here. Otherwise, you can omit this section or add a general statement like "A range of grooming services for your pet."]
 
 **Contact:**
 
-* **Website:** [Fluffy Paws Website](https://www.fluffypaws.com)
-* **Phone:** [555-123-4567](tel:555-123-4567) 
-* **Email:** [info@fluffypaws.com](mailto:info@fluffypaws.com)
+* **Phone:** [31630540476](tel:31630540476)
+* **Email:** [info@royaltydogs.nl](mailto:info@royaltydogs.nl) 
+* **Facebook:** [https://www.facebook.com/TrimsalonRoyaltyDogs/](https://www.facebook.com/TrimsalonRoyaltyDogs/)
+* **Website:** [https://www.royaltydogs.nl/](https://www.royaltydogs.nl/)
+
 
 **Location:**
 
-123 Main Street
-Anytown, CA 12345
+Steendijk 78, 9404 AG Assen, Netherlands
 
 **Gallery:**
 
-![Image of dog getting groomed](/listing/fluffy-paws-grooming.jpg)
-![Image of cat getting groomed](/listing/fluffy-paws-cat.jpg)
+[Include an image gallery here if you have photos. You could use the `photo` field from your data if it contains image URLs.]
