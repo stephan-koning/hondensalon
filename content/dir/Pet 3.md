@@ -8,7 +8,7 @@ tags:
   - dog grooming 
 ---
 
-## Trimsalon Leona Assen
+# Trimsalon Leona Assen
 
 **About Us**
 
