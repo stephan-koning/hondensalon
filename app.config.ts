@@ -63,18 +63,6 @@ export default defineAppConfig({
       name: "cat-grooming",
       color: "green",
     }, {
-      name: "nail-trimming",
-    }, {
-      name: "de-shedding",
-    }, {
-      name: "mobile-grooming",
-    }, {
-      name: "puppy-grooming",
-    }, {
-      name: "senior-pet-grooming",
-    }, {
-      name: "special-needs-grooming",
-    }, {
       name: "assen",
     }],
     tagPages: {
