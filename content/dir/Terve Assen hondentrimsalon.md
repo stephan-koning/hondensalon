@@ -4,7 +4,8 @@ description: “Hondentrimsalon in Assen, Nederland”.
 keywords: “hondentrimsalon Assen”
 card_image: https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZgY-Kna1EkKe5B-3a2MofA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=182.03957&pitch=0&thumbfov=100  
 tags:
-  - hondentrimsalon 
+  - Hond 
+  - Trimsalon Hond 
   - hondentrimsalon 
 ---
 

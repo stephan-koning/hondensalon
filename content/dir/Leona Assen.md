@@ -4,8 +4,8 @@ description: "Pet Groomer in Assen, Netherlands"
 keywords: "hondentrimsalon Assen"
 card_image: https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no  
 tags:
-  - pet grooming 
-  - dog grooming 
+  - Trimsalon Huisdier 
+  - Trimsalon Hond 
 ---
 
 # Trimsalon Leona Assen

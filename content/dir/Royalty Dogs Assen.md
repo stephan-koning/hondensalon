@@ -3,8 +3,8 @@ title: "Trimsalon Royalty Dogs Assen"
 description: "Pet Groomer in Assen, Netherlands" 
 card_image: https://lh5.googleusercontent.com/p/AF1QipOVLTyu-_Q9Zlfgp8ayqTQ82rBGzTPunXN6Q1zO=w800-h500-k-no  
 tags:
-  - pet grooming 
-  - dog grooming 
+  - Trimsalon Huisdier 
+  - Trimsalon Hond 
 ---
 
 ## Trimsalon Royalty Dogs Assen
