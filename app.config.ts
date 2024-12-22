@@ -54,17 +54,29 @@ export default defineAppConfig({
       showOnAllPages: true,
       showOnSide: true,
       icon: "tabler:star",
-      labelForCard: "Featured ✨",
+      labelForCard: "Claimed ✨",
     },
-    tags: [
-      { name: "SAAS", color: "blue" },
-      { name: "dashboard", color: "green" },
-      { name: "landing-page" },
-      { name: "toolbox" },
-      { name: "agency" },
-      { name: "markdown-based" },
-      { name: "basics", color: "indigo" },
-    ],
+    tags: [{
+      name: "dog-grooming",
+      color: "blue",
+    }, {
+      name: "cat-grooming",
+      color: "green",
+    }, {
+      name: "nail-trimming",
+    }, {
+      name: "de-shedding",
+    }, {
+      name: "mobile-grooming",
+    }, {
+      name: "puppy-grooming",
+    }, {
+      name: "senior-pet-grooming",
+    }, {
+      name: "special-needs-grooming",
+    }, {
+      name: "assen",
+    }],
     tagPages: {
       title: "Available {0} products:",
       description:
