@@ -1,36 +1,34 @@
 ---
-title: "Trimsalon Leona"
+title: "Trimsalon Leona Assen"
 description: "Pet Groomer in Assen, Netherlands" 
+keywords: "hondentrimsalon Assen"
 card_image: https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no  
 tags:
   - pet grooming 
   - dog grooming 
-  - cat grooming 
-  - rodent grooming
 ---
 
-## Trimsalon Leona
+## Trimsalon Leona Assen
 
 **About Us**
 
-Trimsalon Leona offers a range of grooming services for dogs, including puppytrim, washing & brushing/combing, trimming, nail trimming, and cat & rodent grooming. They focus on coat health, use shampoos specific to coat type and skin needs, and provide puppy socialization and individualized approach.
+Trimsalon Leona offers a range of pet grooming services in Assen. Their services include core grooming services and additional specialized services for cats, small animals, and puppies.
 
 **Services Offered:** 
 
-* **Puppytrim:** Introduction to grooming for puppies
-* **Washing & Brushing/Combing:**  For general hygiene and coat maintenance
-* **Trimming:** Tailored to breed and coat type using techniques such as:
-    * Clipping
-    * Plucking
-    * Scissoring 
-    * Stripping
-* **Nail Trimming:** Included with every treatment
-* **Cat & Rodent Grooming:** Available but details are limited
+* **Core Grooming Services:**
+  * Trimming: clipping & scissoring, thinning & blending, deshedding, hand stripping
+  * Washing
+  * Brushing & Combing
+  * Nail Trimming
+* **Additional Services:**
+  * Puppy Introduction
+  * Cat & Small Animal Grooming
 
 **Contact:**
 
-* **Phone:** [31637401000](tel:31637401000)
-* **Website:** [https://www.trimsalonleona.nl/](https://www.trimsalonleona.nl/)
+* **Phone:** 31637401000
+* **Website:** https://www.trimsalonleona.nl/
 
 **Location:**
 
@@ -38,8 +36,8 @@ Sluisstraat 40, 9406 AT Assen, Netherlands
 
 **Gallery:**
 
-https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no 
+![Trimsalon Leona](https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no)
 
-**Reviews:**
+**Rating and Reviews:**
 
-Trimsalon Leona has a rating of 4.8 based on 46 reviews, with a history of consistent high ratings over time.
+Trimsalon Leona has a rating of 4.8 (Oct-2023), 4.8 (Jan-2024), 4.8 (Apr-2024), 4.8 (Sep-2024), 4.9 (Oct-2024) based on 46 reviews.
