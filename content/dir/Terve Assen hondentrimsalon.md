@@ -27,7 +27,4 @@ Een scala aan trimdiensten voor uw huisdier.
 
 Steendijk 92, 9404 AH Assen, Nederland
 
-**Galerie:**
-
-[https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZgY-Kna1EkKe5B-3a2MofA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=182.03957&pitch=0&thumbfov=100](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZgY-Kna1EkKe5B-3a2MofA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=182.03957&pitch=0&thumbfov=100)
 
