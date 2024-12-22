@@ -21,11 +21,11 @@ export default defineAppConfig({
   directory: {
     search: {
       placeholder: "Search among {0} tools",
-      icon: "tabler:bow",
+      icon: "i-material-symbols-sound-detection-dog-barking-outline",
       tags: {
         // options: none,select,show-all,
-        display: "select",
-        intersection: false,
+        display: "none",
+        intersection: "",
       },
     },
     grid: {
