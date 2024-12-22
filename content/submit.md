@@ -1,9 +1,7 @@
 # Grow your business by submitting it to directory x.
 
-Submit your startup to the Minted directory to showcase your business to a growing community of founders, developers, and entrepreneurs.
+Staat jouw Salon er niet tussen?  Stuur je gegevens om je bedrijf te presenteren aan een groeiende gemeenschap van honden lieverhebbers.
 
-- directory x gets **+100** visitors each month.
-- directory x gets **10** unique visitors each month.
 
 ---
 
