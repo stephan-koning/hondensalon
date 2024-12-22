@@ -26,9 +26,9 @@ Fluffy Paws Pet Salon is a full-service grooming salon dedicated to providing a 
 
 **Contact:**
 
-[Website](https://www.fluffypaws.com)
-[Phone Number](tel:555-123-4567)
-[Email](mailto:info@fluffypaws.com)
+* **Website:** [Fluffy Paws Website](https://www.fluffypaws.com)
+* **Phone:** [555-123-4567](tel:555-123-4567) 
+* **Email:** [info@fluffypaws.com](mailto:info@fluffypaws.com)
 
 **Location:**
 
