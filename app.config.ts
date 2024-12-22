@@ -86,9 +86,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
+      text: "Woef",
       link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      brandText: "Bikkel het Hondje",
     },
     navbar: {
       colorModeSelector: true,
