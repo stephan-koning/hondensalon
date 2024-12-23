@@ -1,8 +1,6 @@
-# Grow your business by submitting it to directory x.
+# Meld je trimsalon aan.
 
-Staat jouw Salon er niet tussen?  Stuur je gegevens om je bedrijf te presenteren aan een groeiende gemeenschap van honden lieverhebbers.
-
-
+Wordt onderdeel van [Website Name] en bereik meer hondenliefhebbers in jouw regio. Vul onderstaand formulier in om je trimsalon aan te melden.
 ---
 
 ::tally-form

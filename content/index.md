@@ -2,16 +2,23 @@
 layout: wide
 ---
 
-# Vind de Perfecte Trimsalon voor Jouw Hond  👋
+# Vind de Perfecte Trimsalon voor Jouw Hond 🐶
 
-Verwen je trouwe viervoeter met de beste verzorging! [Your Website Name] helpt je bij het vinden van de ideale hondentrimsalon.
+Verwen je trouwe viervoeter met de beste verzorging! [Your Website Name] helpt je bij het vinden van de ideale **hondentrimsalon** in [jouw stad/regio]. 
 
-## We make it easy to pamper your pooch with a wide selection of trusted trimsalons.
+Of je nu op zoek bent naar een:
 
-Of je nu op zoek bent naar een simpele wasbeurt, een complete trimbeurt of vlooienbehandeling, wij hebben de juiste trimsalon voor jou. Begin vandaag nog met zoeken en geef je hond de aandacht die hij verdient!
+* Simpele wasbeurt 🛁
+* Complete **hondentrimbeurt** ✂️
+* **Vlooienbehandeling** voor je **puppy** 🐶
+* **Honden kapper** met expertise in jouw hondenras 🐩
 
+...wij hebben de juiste **trimsalon** voor jou! 
 
-Pamper Your Pooch: Zoek een Trimsalon in de Buurt  👇
+Vind de **beste hondentrimsalon** en geef je hond de aandacht die hij verdient!
+
+**Zoek een Trimsalon in de Buurt**  👇
+
 
 ::search
 ::

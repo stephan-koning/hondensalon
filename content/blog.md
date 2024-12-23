@@ -9,6 +9,9 @@ description: Read the best articles related to the directory.
 #description
 Read the best articles related to the directory.
 And earn SEO points by writing more articles.
+
+Over [Website Name] en mijn passie voor honden (About [Website Name] and my passion for dogs)
+
 ::
 
 :blogGrid
