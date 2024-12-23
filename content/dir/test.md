@@ -8,7 +8,7 @@ tags:
   - Hondentrimsalon  
 ---
 
-## Spa4Dogs
+# Spa4Dogs
 
 **About Us**
 Experienced professionals at Spa4Dogs provide high-quality grooming services for dogs, particularly focusing on smaller breeds like Cocker Spaniels. They offer a ""Spa Deluxe"" experience, pampering your dog with luxurious grooming products, and specialize in keeping their coats healthy and shiny.
