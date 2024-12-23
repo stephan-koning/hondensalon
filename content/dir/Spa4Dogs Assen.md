@@ -11,6 +11,7 @@ tags:
 # Spa4Dogs Assen
 
 **About Us**
+
 Spa4Dogs is gespecialiseerd in wellness en gespecialiseerde zorg voor Cocker Spaniels en kleinere rassen, biedt een scala aan spabehandelingen en gebruikt “Always Your Friend” luxe verzorgingsproducten.
 
 

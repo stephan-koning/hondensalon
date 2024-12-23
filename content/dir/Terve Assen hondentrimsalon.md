@@ -11,6 +11,7 @@ tags:
 # Terve Assen hondentrimsalon
 
 **About Us**
+
 Bij Terve Assen trimmen ervaren professionals uw hond, zodat de vacht gezond en glanzend blijft. Ze hebben verschillende diensten, waaronder baden, knippen en nagels knippen, zodat je harige vriend zich comfortabel en ontspannen voelt tijdens zijn bezoek. Een reservering is verplicht en voor meer informatie over hun specifieke diensten kun je terecht op hun website of rechtstreeks contact met hen opnemen.
 
 **Contact:**

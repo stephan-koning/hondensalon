@@ -11,6 +11,7 @@ tags:
 # Trimsalon leona
 
 **About Us**
+
 De ervaren professionals van Trimsalon leona bieden een scala aan verzorgingsdiensten voor uw hond, waaronder puppy trimmen, wassen, borstelen en algemeen trimmen. Ook bieden ze gespecialiseerde diensten zoals epileren, knippen en nagels knippen om de vacht van je hond gezond en glanzend te houden. Bovendien verzorgen ze ook katten en andere kleine dieren, zodat al je huisdieren de verzorging krijgen die ze nodig hebben.
 
 **Contact:**

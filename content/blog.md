@@ -1,9 +1,11 @@
 ---
 layout: wide
-description: Read the best articles related to the directory.
+description: Hoe vind je de beste hondentrimsalon? Hoe bereid je je puppy voor op de trimmer?  Ontdek antwoorden en meer op onze blog vol tips voor hondenliefhebbers.
+
 ---
 
 ::center-hero{icon="tabler:zeppelin"}
+
 # Welcome op de Blog Jouw Bron voor Hondenverzorging en Advies 
 
 Welkom op de blog van [Website Name]! Hier vind je waardevolle informatie, tips en advies over alles wat met hondenverzorging te maken heeft.

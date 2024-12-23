@@ -11,6 +11,7 @@ tags:
 # Trimsalon Marley Assen
 
 **Over Trimsalon Marley Assen**
+
 Bij Trimsalon Marley Assen bieden gediplomeerde trimster Narda Trip en haar team persoonlijke trimdiensten voor honden, katten en konijnen. Ze bieden een scala aan diensten, waaronder trimmen, plukken, knippen en scheren, om de vacht van je huisdier gezond en glanzend te houden. Hun zachte aanpak zorgt ervoor dat je huisdier zich op zijn gemak voelt, en ze bieden ook een trimservice voor puppy's om jonge dieren aan het proces te laten wennen.
 
 **Contact:**

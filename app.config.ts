@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "De Beste Honden Salons",
+    title: "Jouw Gids voor de Beste Trimsalons",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,7 +10,7 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Alleen De Beste Honden Salons ",
+    name: "Jouw Gids voor de Beste Trimsalons",
     description: "",
     url: "",
     favicon: {
