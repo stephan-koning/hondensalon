@@ -4,7 +4,7 @@ export default defineAppConfig({
   general: {
     title: "TrimFindr.nl",
     logo: "",
-    iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
+    iconLogo: "fluent-emoji-flat:scissors",
   },
 
   site: {
