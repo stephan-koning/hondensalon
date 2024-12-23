@@ -3,7 +3,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 export default defineAppConfig({
   general: {
     title: "TrimFindr.nl",
-    logo: "/favicon.ico",
+    logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
 
