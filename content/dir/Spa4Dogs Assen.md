@@ -48,4 +48,3 @@ Zeilmakerstraat 15, 9403 VA Assen, Netherlands
 
 * Rating: 5.0
 * Number of Reviews: 22
-* Review History: 5.0 (Sep-2024), 5.0 (Oct-2024), 5.0 (Dec-2024)

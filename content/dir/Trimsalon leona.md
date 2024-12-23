@@ -8,7 +8,7 @@ tags:
   - Hondentrimsalon  
 ---
 
-## Trimsalon leona
+# Trimsalon leona
 
 **About Us**
 Experienced professionals at Trimsalon leona provide a range of grooming services for your dog, including puppy trimming, washing, brushing, and general trimming. They also offer specialized services like plucking, clipping, and nail trimming to keep your dog's coat healthy and shiny. Additionally, they cater to cats and other small animals, ensuring all your pets receive the care they need.
