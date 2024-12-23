@@ -12,9 +12,11 @@ export default {
       },
       colors: {
 
-primary: colors.amber[500],  // Warm orange-yellow
-secondary: colors.stone[700], // Dark gray with brown undertones
-accent: colors.emerald[600],   // Rich green
+primary: colors.amber,  // Warm orange-yellow
+secondary: colors.stone, // Dark gray with brown undertones
+accent: colors.emerald,   // Rich green
+
+        
         
       },
     },
