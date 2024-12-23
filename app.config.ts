@@ -92,7 +92,7 @@ export default defineAppConfig({
       ],
     },
     actionButton: {
-      text: "Meld een trimsalon aan",
+      text: "Voeg je trimsalon toe",
       href: "/submit",
     },
   },
