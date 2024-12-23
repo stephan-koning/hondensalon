@@ -2,7 +2,7 @@
 title: "Trimsalon Marley Assen"
 description: "Hondentrimsalon in Assen, Netherlands" 
 keywords: "Trimsalon Marley Assen Assen Pet Groomer" 
-card_image: https://lh5.googleusercontent.com/p/AF1QipPOfop464-_8bU_wyMH5Ix1RfVRvMokiqGasHLl=w800-h500-k-no
+card_image: "https://lh5.googleusercontent.com/p/AF1QipPOfop464-_8bU_wyMH5Ix1RfVRvMokiqGasHLl=w800-h500-k-no"
 tags:
   - Assen
   - Hondentrimsalon  

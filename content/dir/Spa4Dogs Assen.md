@@ -2,7 +2,7 @@
 title: "Spa4Dogs Assen"
 description: "Pet Groomer in Assen, Netherlands" 
 keywords: "hondentrimsalon Assen, hondentrimsalon"
-card_image: https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no  
+card_image: "https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no"  
 tags:
   - Hondentrimsalon 
   - Assen 
