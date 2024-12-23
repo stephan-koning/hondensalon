@@ -34,8 +34,8 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     public: {
-      posthogPublicKey: process.env.SECRET,
-      posthogHost: process.env.SECRET,
+      posthogPublicKey: process.env.POSTHOG_PUBLIC_KEY,
+      posthogHost: process.env.POSTHOG_HOST,
       mdc: {
         useNuxtImage: true,
       },
