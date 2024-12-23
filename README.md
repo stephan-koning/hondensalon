@@ -1,87 +1,18 @@
-<div align="center">
-  <h1>Minted Directory Template</h1>
-  <p>Markdown driven directory template. Built with Nuxt, Nuxt Content and Tailwindcss. Optimized for SEO. Beautiful Customizable Style</p>
-</div>
+## Vind de Perfecte Trimsalon voor Jouw Hond met [Website Name]
 
-<br/>
+<img src="https://res.cloudinary.com/dxsghuwcm/image/upload/ar_16:9,c_fill,g_auto,w_1024/v1734105506/Togo%20Samoyed%20Blog/Togo%20de%20Samoyed/j7ozpvt1pv8jwkoyx4xu.jpg" alt="Hondentrimsalon" width="500"> 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/952a6903-841b-4102-a34b-d6f297079e03" width="85%" alt="Minted Directory Screenshot" />
-</div>
+🐶 Zoek je een **hondentrimsalon** in de buurt? **[Website Name]** is dé online directory voor de beste trimsalons in Nederland! 
 
-<br/>
+Of je nu een **Maltezer**, **Pug**, **Chihuahua** of **Beagle** hebt, wij helpen je de perfecte **honden kapper** te vinden. 
 
-Learn more at [minteddirectory.com](https://minteddirectory.com)
+**[Website Name]** biedt:
 
-Read the [docs](https://minteddirectory.com/docs)
+* **Uitgebreide selectie:**  Vind **trimsalons** voor alle **honden soorten**, van **puppy** tot senior.
+* **Eenvoudig zoeken:** Filter op locatie, specialisaties (zoals **puppy trimsalon**) en reviews.
+* **Betrouwbare informatie:**  Bekijk profielen met foto's, diensten en prijzen van elke **hondentrimsalon**.
+* **Vergelijken:**  Vind de **beste hondentrimsalon** die past bij jouw wensen en budget.
 
-### Features:
-+ 🖌️ Add Listings with markdown.
-+ 🔋 Batteries included for SEO (nuxt seo module).
-+ 💻 Pre-built components for directories.
-+ 💅 Customizable style.
-+ 🌙 Dark/Light mode
-+ 💸 Sponsored Content
+**[Website Name]** - Jouw partner in hondenwelzijn! 🐾
 
-## Getting Started
-
-### Local Development
-
-Duplicate the template then clone the repository.
-
-```sh
-git clone git@github.com:youraccount/projectname.git my-directory
-```
-
-Or use the github cli to create a repository based on the template and clone in one command:
-
-```sh
-gh repo create my-directory --template masterkram/minted-directory --private --clone
-```
-
-Go to the cloned folder:
-```sh
-cd my-directory
-```
-
-Install dependencies
-
-```sh
-pnpm install
-```
-
-Run the website:
-
-```sh
-pnpm dev
-```
-
-Congrats :tada:
-
-You can start customizing and building your directory.
-
-### Customization
-
-To customize the directory style:
-+ Change the `primary`, `secondary` color and `fontFamily` in `tailwind.config.ts`
-+ Customize the `app.config.ts`
-
-Read about the possible changes to the app config [here](https://minteddirectory/docs/settings).
-
-### Adding Content
-
-Add listings by adding markdown files to `/content/dir`
-
-Add blog articles by adding markdown files to `/content/blog`
-
-### Deployment
-
-Deploy as a pre-rendered, static site for best SEO performance:
-
-```bash
-pnpm run generate
-```
-
-Check out the [deployment documentation](https://minteddirectory.com/docs/deployment) for more information.
-
----
+**Bezoek onze website:** [Link naar je website]
