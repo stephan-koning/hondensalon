@@ -11,7 +11,7 @@ tags:
 # Terve Assen hondentrimsalon
 
 **About Us**
-Experienced professionals at Terve Assen will groom your dog, keeping their coat healthy and shiny. They offer a variety of services, including bathing, haircuts, and nail trimming, to make your furry friend feel comfortable and relaxed throughout their visit. Appointments are required, and to learn more about their specific services, you can visit their website or contact them directly.
+Bij Terve Assen trimmen ervaren professionals uw hond, zodat de vacht gezond en glanzend blijft. Ze hebben verschillende diensten, waaronder baden, knippen en nagels knippen, zodat je harige vriend zich comfortabel en ontspannen voelt tijdens zijn bezoek. Een reservering is verplicht en voor meer informatie over hun specifieke diensten kun je terecht op hun website of rechtstreeks contact met hen opnemen.
 
 **Contact:**
 
@@ -19,7 +19,7 @@ Experienced professionals at Terve Assen will groom your dog, keeping their coat
 * **Website:** [http://terve-assen.nl/](http://terve-assen.nl/)
 
 **Location:**
-Terve Assen is located in Assen, making it a convenient option for dog owners in the area. They are situated at Steendijk 92.
+Terve is gevestigd in Assen, waardoor het een handige optie is voor hondenbezitters in de buurt. Ze zijn gevestigd aan de Steendijk 92.
 
 **Gallery:**
 ![Photo of Terve Assen hondentrimsalon](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZgY-Kna1EkKe5B-3a2MofA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=182.03957&pitch=0&thumbfov=100)

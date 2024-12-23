@@ -11,7 +11,7 @@ tags:
 # Trimsalon leona
 
 **About Us**
-Experienced professionals at Trimsalon leona provide a range of grooming services for your dog, including puppy trimming, washing, brushing, and general trimming. They also offer specialized services like plucking, clipping, and nail trimming to keep your dog's coat healthy and shiny. Additionally, they cater to cats and other small animals, ensuring all your pets receive the care they need.
+De ervaren professionals van Trimsalon leona bieden een scala aan verzorgingsdiensten voor uw hond, waaronder puppy trimmen, wassen, borstelen en algemeen trimmen. Ook bieden ze gespecialiseerde diensten zoals epileren, knippen en nagels knippen om de vacht van je hond gezond en glanzend te houden. Bovendien verzorgen ze ook katten en andere kleine dieren, zodat al je huisdieren de verzorging krijgen die ze nodig hebben.
 
 **Contact:**
 
@@ -19,7 +19,7 @@ Experienced professionals at Trimsalon leona provide a range of grooming service
 * **Website:** [https://www.trimsalonleona.nl/](https://www.trimsalonleona.nl/)
 
 **Location:**
-Trimsalon leona is located in Assen, providing convenient access to pet grooming services for local pet owners. Their location allows them to serve the community with top-notch pet care.
+Trimsalon leona is gevestigd in Assen en biedt een gemakkelijke toegang tot verzorgingsdiensten voor lokale huisdiereigenaren. 
 
 **Gallery:**
 ![Photo of Trimsalon leona](https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no)
