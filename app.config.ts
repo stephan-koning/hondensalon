@@ -15,7 +15,7 @@ export default defineAppConfig({
     url: "",
     favicon: {
       image: "",
-      emoji: "💖🐕",
+      emoji: "🐕💖",
     },
   },
   directory: {
@@ -74,9 +74,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Woef",
+      text: "Deel je passie voor honden met onze community.",
       link: "",
-      brandText: "Get Featured",
+      brandText: "Word Gastschrijver!",
     },
     navbar: {
       colorModeSelector: true,
