@@ -35,6 +35,8 @@ Zeilmakerstraat 15, 9403 VA Assen, Netherlands
 
 **Gallery:**
 
+![Photo of Trimsalon Royalty Dogs Assen](https://lh5.googleusercontent.com/p/AF1QipOVLTyu-_Q9Zlfgp8ayqTQ82rBGzTPunXN6Q1zO=w800-h500-k-no)
+
 [https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no](https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no)
 
 **Important Notes:**
