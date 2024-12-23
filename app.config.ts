@@ -12,26 +12,26 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Alleen De Beste Honden Salons ",
     description: "",
-    url: "https://example.com",
+    url: "",
     favicon: {
       image: "",
-      emoji: "🍃",
+      emoji: "💖🐕",
     },
   },
   directory: {
     search: {
       placeholder: "Search among {0} tools",
-      icon: "i-material-symbols-sound-detection-dog-barking-outline",
+      icon: "i-material-symbols-search-rounded",
       tags: {
         // options: none,select,show-all,
         display: "none",
-        intersection: "",
+        intersection: true,
       },
     },
     grid: {
       list: false,
       emptyState: {
-        text: "Seems that this entry is missing from the archives.",
+        text: "Hier is nog niks ",
         // options: button, simple, link
         type: "button",
         icon: "tabler:exclamation-mark",
@@ -44,39 +44,39 @@ export default defineAppConfig({
       submit: {
         show: true,
         first: false,
-        title: "Submit a template",
+        title: "Zit Je trimsalon er nog niet tussen? ",
         description:
-          "Submit a template to show off a good project to other people.",
+          "Maak nu een profiel aan en krijg nog meer bezokers",
         hideable: true,
       },
     },
     featured: {
       showOnAllPages: true,
       showOnSide: true,
-      icon: "tabler:star",
+      icon: "i-material-symbols-sound-detection-dog-barking",
       labelForCard: "Claimed ✨",
     },
     tags: [{
-      name: "dog-grooming",
+      name: "Honden Trimsalons",
       color: "blue",
     }, {
-      name: "cat-grooming",
+      name: "andere huisdieren",
       color: "green",
     }, {
-      name: "assen",
+      name: "Assen",
     }],
     tagPages: {
-      title: "Available {0} products:",
+      title: "Available {0} trimsalons:",
       description:
-        "View all available tools and templates in the {0} category...",
+        "View all available trimsalons  en winkels  {0} category...",
     },
   },
   header: {
     banner: {
       show: true,
       text: "Woef",
-      link: "https://minteddirectory.com",
-      brandText: "Bikkel het Hondje",
+      link: "",
+      brandText: "Get Featured",
     },
     navbar: {
       colorModeSelector: true,
@@ -92,12 +92,12 @@ export default defineAppConfig({
       ],
     },
     actionButton: {
-      text: "Submit a starter",
+      text: "Meld een trimsalon aan",
       href: "/submit",
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "Wellicht de enige directory voor trimsalons op het internet",
     socials: {
       github: {
         link: "",
