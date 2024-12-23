@@ -2,19 +2,19 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "TrimFindr.nl",
-    logo: "",
+    title: "TrimFindr.nl || Jouw Gids voor de Beste Trimsalons",
+    logo: "/favicon.ico",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Jouw Gids voor de Beste Trimsalons",
+    name: "🐕 TrimFindr.nl || Jouw Gids voor de Beste Trimsalons",
     description: "",
     url: "",
     favicon: {
-      image: "",
+      image: "🐕",
       emoji: "🐕💖",
     },
   },
@@ -53,7 +53,7 @@ export default defineAppConfig({
     featured: {
       showOnAllPages: true,
       showOnSide: true,
-      icon: "i-material-symbols-sound-detection-dog-barking",
+      icon: "i-material-symbols-stars-outline",
       labelForCard: "Claimed ✨",
     },
     tags: [{

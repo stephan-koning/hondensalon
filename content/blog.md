@@ -8,8 +8,6 @@ description: Hoe vind je de beste hondentrimsalon? Hoe bereid je je puppy voor o
 
 # Welcome op de Blog Jouw Bron voor Hondenverzorging en Advies 
 
-Welkom op de blog van [Website Name]! Hier vind je waardevolle informatie, tips en advies over alles wat met hondenverzorging te maken heeft.
-
 #description
 Enthousiaste hondenliefhebber met een passie voor schrijven?  Word gastschrijver voor onze blog! Deel je kennis en expertise met onze community.  [Link naar aanmeldpagina/instructies]
 
