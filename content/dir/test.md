@@ -1,34 +1,30 @@
 ---
-title: "Spa4Dogs"
+title: "Trimsalon leona"
 description: "Pet Groomer in Assen, Netherlands" 
-keywords: "Spa4Dogs Assen Pet Groomer" 
-card_image: "https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no"
+keywords: "Trimsalon leona Assen Pet Groomer" 
+card_image: "https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no"
 tags:
   - Assen
   - Hondentrimsalon  
 ---
 
-# Spa4Dogs
+# Trimsalon leona
 
 **About Us**
-Experienced professionals at Spa4Dogs provide high-quality grooming services for dogs, particularly focusing on smaller breeds like Cocker Spaniels. They offer a ""Spa Deluxe"" experience, pampering your dog with luxurious grooming products, and specialize in keeping their coats healthy and shiny.
+Experienced professionals at Trimsalon leona provide a range of grooming services for your dog, including puppy trimming, washing, brushing, and general trimming. They also offer specialized services like plucking, clipping, and nail trimming to keep your dog's coat healthy and shiny. Additionally, they cater to cats and other small animals, ensuring all your pets receive the care they need.
 
 **Contact:**
 
-* **Phone:** [31652325488](tel:31652325488)
-* **Website:** [https://www.spa4dogs.nl/](https://www.spa4dogs.nl/)
+* **Phone:** [31637401000](tel:31637401000)
+* **Website:** [https://www.trimsalonleona.nl/](https://www.trimsalonleona.nl/)
 
 **Location:**
-Spa4Dogs is located in Assen, providing convenient access to pet owners in the area. Their location allows them to serve the local community with top-notch pet grooming services.
+Trimsalon leona is located in Assen, providing convenient access to pet grooming services for local pet owners. Their location allows them to serve the community with top-notch pet care.
 
 **Gallery:**
-![Photo of Spa4Dogs](https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no)
-
-
+![Photo of Trimsalon leona](https://lh5.googleusercontent.com/p/AF1QipPPq09vsAEBD6-FkfapOW8iNkAKbJ_zogds09Qx=w800-h500-k-no)
 
 **Reviews:**
+Trimsalon leona has received 46 reviews with an average score of 4.9, showcasing their commitment to providing excellent pet grooming services.
 
-This business has 22 reviews with an average score of 5.
-
-Please note that the information provided is based on available data and is subject to change. For the most up-to-date information and to schedule an appointment, we recommend visiting their website or contacting Spa4Dogs directly.
-
+Please note that the information provided is based on available data and may be subject to change. For the most up-to-date information and to book a grooming session, we recommend visiting Trimsalon leona's website or contacting them directly.
