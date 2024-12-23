@@ -57,7 +57,7 @@ export default defineAppConfig({
       labelForCard: "Claimed ✨",
     },
     tags: [{
-      name: "Honden Trimsalons",
+      name: "Hondentrimsalon",
       color: "blue",
     }, {
       name: "andere huisdieren",
