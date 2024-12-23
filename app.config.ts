@@ -2,22 +2,24 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "TrimFindr.nl || Jouw Gids voor de Beste Trimsalons",
+    title: "TrimFindr.nl",
     logo: "/favicon.ico",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
+
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "🐕 TrimFindr.nl || Jouw Gids voor de Beste Trimsalons",
+    name: "🐕 TrimFindr.nl  || Jouw Gids voor de Beste Trimsalons",
     description: "",
     url: "",
     favicon: {
-      image: "🐕",
-      emoji: "🐕💖",
+      image: "",
+      emoji: "🐕",
     },
   },
+
   directory: {
     search: {
       placeholder: "Search among {0} tools",
@@ -71,6 +73,7 @@ export default defineAppConfig({
         "View all available trimsalons  en winkels  {0} category...",
     },
   },
+
   header: {
     banner: {
       show: true,
@@ -96,6 +99,7 @@ export default defineAppConfig({
       href: "/submit",
     },
   },
+
   footer: {
     description: "Wellicht de enige directory voor trimsalons op het internet",
     socials: {
@@ -121,10 +125,15 @@ export default defineAppConfig({
       },
     },
   },
+
   ui: {
     icons: {
       dark: "tabler:moon",
       light: "tabler:sun",
     },
+  },
+
+  icon: {
+    size: "",
   },
 });
