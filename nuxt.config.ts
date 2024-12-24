@@ -49,7 +49,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "https://example.com",
+    url: "http://stephan-koning-hondensalon.nuxt.space/",
   },
   compatibilityDate: "2024-09-20",
 });
