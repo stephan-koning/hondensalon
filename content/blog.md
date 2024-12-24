@@ -20,7 +20,5 @@ Gezondheid en welzijn (bijv. "Wanneer is het tijd voor een bezoekje aan de trims
 
 En nog veel meer! ✨
 
-![togo met een blauwe bal](/Togo_Canva.png)
-
 ::blog-grid
 ::
