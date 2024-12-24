@@ -2,7 +2,7 @@
 title: "Hondentrimsalon Rena"
 description: "Pet Groomer in Assen, Netherlands" 
 keywords: "Hondentrimsalon Rena Assen Pet Groomer" 
-card_image: "https://res.cloudinary.com/hlnsbykoning/image/upload/q_auto:eco/v1735072041/Hondentrimsalon/renatrimsalon_at9x1n.webp"
+card_image: "https://res.cloudinary.com/hlnsbykoning/image/upload/q_auto:good/v1735072041/Hondentrimsalon/renatrimsalon_at9x1n.jpg"
 tags:
   - Assen
   - Hondentrimsalon  
