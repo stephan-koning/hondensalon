@@ -287,7 +287,7 @@ export default defineNuxtSchema({
               type: "string",
               title: "Brand Text",
               description: "Brand text for the banner.",
-              default: "MintedDirectory",
+              default: "TrimFind.nl",
             }),
           },
         }),
