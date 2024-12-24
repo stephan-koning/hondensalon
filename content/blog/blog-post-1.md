@@ -1,14 +1,14 @@
 ---
-title: "All About Samoyeds"
-description: "Samoyeds are known for their gentle and affectionate nature. They're incredibly loyal, intelligent, and thrive on human interaction, making them wonderful family dogs." 
-keywords: "Terve Assen hondentrimsalon Assen Pet Groomer" 
-card_image:
+title: All About Samoyeds
+description: Samoyeds are known for their gentle and affectionate nature.
+  They're incredibly loyal, intelligent, and thrive on human interaction, making
+  them wonderful family dogs.
+keywords: Terve Assen hondentrimsalon Assen Pet Groomer
+card_image: null
 tags:
   - Hondenrassen
-  - Samoyed  
+  - Samoyed
 ---
-
-
 
 # All About Samoyeds: Breed Information and History
 

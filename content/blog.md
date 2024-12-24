@@ -1,14 +1,12 @@
 ---
 layout: wide
-description: Hoe vind je de beste hondentrimsalon? Hoe bereid je je puppy voor op de trimmer?  Ontdek antwoorden en meer op onze blog vol tips voor hondenliefhebbers.
-
+description: Tips voor trimsalons, puppy's eerste knipbeurt,
+  vlooienbehandelingen en meer? Onze blog staat vol handige artikelen!
 ---
 
-::center-hero{icon="tabler:zeppelin"}
+# Welcome op de Blog Jouw Bron voor Hondenverzorging en Advies
 
-# Welcome op de Blog Jouw Bron voor Hondenverzorging en Advies 
-
-"Hé hondenliefhebbers! 🐶  Ben jij gek op schrijven én heb je een passie voor alles wat met honden te maken heeft? Dan hebben wij dé perfecte kans voor jou! Word gastschrijver voor onze blog en deel jouw kennis en ervaringen met onze geweldige community.  🙌
+Hé hondenliefhebbers! 🐶 Ben jij gek op schrijven én heb je een passie voor alles wat met honden te maken heeft? Dan hebben wij dé perfecte kans voor jou! Word gastschrijver voor onze blog en deel jouw kennis en ervaringen met onze geweldige community. 🙌
 
 Of je nu tips hebt over het vinden van de beste trimsalon, advies over hoe je je puppy voorbereidt op z'n eerste knipbeurt, of gewoon handige weetjes over vlooienbehandelingen - we willen het allemaal horen! 🤩 Onze blog staat bomvol nuttige artikelen, geschreven door experts én hondenliefhebbers zoals jij.
 
@@ -18,11 +16,11 @@ Hondenrassen en hoe je ze het beste kunt verzorgen (bijv. "De beste trimsalon vo
 
 Tips voor thuisverzorging (bijv. "Hoe vaak moet ik mijn hond borstelen?" 🤔)
 
-Gezondheid en welzijn (bijv. "Wanneer is het tijd voor een bezoekje aan de trimsalon?" ✂️)
-Interviews met professionele trimmers die hun geheimen delen 🤫
+Gezondheid en welzijn (bijv. "Wanneer is het tijd voor een bezoekje aan de trimsalon?" ✂️) Interviews met professionele trimmers die hun geheimen delen 🤫
 
 En nog veel meer! ✨
 
-::
+![togo met een blauwe bal](/Togo_Canva.png)
 
-:blogGrid
+::blog-grid
+::
