@@ -134,6 +134,6 @@ export default defineAppConfig({
   },
 
   icon: {
-    size: "10",
+    size: "",
   },
 });

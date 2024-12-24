@@ -3,6 +3,7 @@ title: "Terve Assen hondentrimsalon"
 description: "Pet Groomer in Assen, Netherlands" 
 keywords: "Terve Assen hondentrimsalon Assen Pet Groomer" 
 card_image: "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZgY-Kna1EkKe5B-3a2MofA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=182.03957&pitch=0&thumbfov=100"
+featured: yes
 tags:
   - Assen
   - Hondentrimsalon  
@@ -31,4 +32,5 @@ Terve is gevestigd in Assen, waardoor het een handige optie is voor hondenbezitt
 
 This business has 1 review with an average score of 5. 
 
-Please note that the information provided is based on available data and may not be comprehensive or up-to-date. For the most accurate and current information, we recommend visiting the pet groomer's website or contacting them directly. If you're looking for a reliable pet groomer in Assen, consider reaching out to Terve Assen hondentrimsalon to schedule an appointment and experience their services firsthand.
+Houd er rekening mee dat deze informatie aan verandering onderhevig is en dat het altijd het beste is om de gegevens rechtstreeks bij de trimsalon te controleren.
+

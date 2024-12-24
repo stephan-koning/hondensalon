@@ -28,4 +28,4 @@ Trimsalon leona is gevestigd in Assen en biedt een gemakkelijke toegang tot verz
 **Reviews:**
 Trimsalon leona has received 46 reviews with an average score of 4.9, showcasing their commitment to providing excellent pet grooming services.
 
-Please note that the information provided is based on available data and may be subject to change. For the most up-to-date information and to book a grooming session, we recommend visiting Trimsalon leona's website or contacting them directly.
+Houd er rekening mee dat deze informatie aan verandering onderhevig is en dat het altijd het beste is om de gegevens rechtstreeks bij de trimsalon te controleren.

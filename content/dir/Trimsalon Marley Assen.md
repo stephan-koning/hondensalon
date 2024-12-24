@@ -20,9 +20,11 @@ Bij Trimsalon Marley Assen bieden gediplomeerde trimster Narda Trip en haar team
 * **Website:** [http://www.trimsalonmarley.nl/](http://www.trimsalonmarley.nl/)
 
 **Locatie:**
+
 Trimsalon Marley Assen is gevestigd in Assen, waardoor eigenaren van huisdieren in de omgeving gemakkelijk toegang hebben. De salon bedient de lokale gemeenschap en biedt een gastvrije ruimte waar huisdieren kunnen genieten van eersteklas verzorgingsdiensten.
 
 **Gallery:**
+
 ![Photo of Trimsalon Marley Assen](https://lh5.googleusercontent.com/p/AF1QipPOfop464-_8bU_wyMH5Ix1RfVRvMokiqGasHLl=w800-h500-k-no)
 
 Trimsalon Marley Assen heeft 56 beoordelingen met een gemiddelde score van 4.9, waaruit blijkt dat ze zich inzetten voor het leveren van uitzonderlijke service aan huisdieren en hun eigenaren.
