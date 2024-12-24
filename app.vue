@@ -1,15 +1,5 @@
 <script setup lang="ts">
 const { layout } = useContent();
-const { $posthog } = useNuxtApp();
-
-  if ($posthog) {
-    const posthog = $posthog();
-    posthog.capture('PageViewed', { 
-      pageName: 'HomePage', 
-      // Add other relevant properties
-    });
-  }
-
 const layoutName = computed(() => layout.value || 'wide');
 </script>
 
