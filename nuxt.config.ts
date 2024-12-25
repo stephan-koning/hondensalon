@@ -49,7 +49,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
-    url: "http://stephan-koning-hondensalon.nuxt.space/",
+    url: "https://trimfindr.netlify.app",
   },
   compatibilityDate: "2024-09-20",
 });
