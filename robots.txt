@@ -1,0 +1,5 @@
+# START nuxt-robots (indexable)
+User-agent: *
+
+Sitemap: https://trimfindr.netlify.app/sitemap.xml
+# END nuxt-robots
