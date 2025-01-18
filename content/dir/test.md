@@ -1,33 +1,33 @@
 ---
-title: "Spa4Dogs"
+title: "Trimsalon Beau"
 description: "Pet Groomer in Assen, Netherlands"
-keywords: "Spa4Dogs Assen Pet Groomer"
-card_image: "https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no"
+keywords: "Trimsalon Beau Assen Pet Groomer"
+card_image: "https://lh5.googleusercontent.com/p/AF1QipMEHE2z6ykGqGSdNWpIW3YQVkrUbFO2gO1zlznh=w800-h500-k-no"
 tags:
   - Assen
   - Hondentrimsalon  
 ---
 
-## Spa4Dogs
+## Trimsalon Beau
 
 **About Us**
-Experienced professionals at Spa4Dogs provide high-quality grooming services for dogs, particularly focusing on smaller breeds like Cocker Spaniels. They offer a ""Spa Deluxe"" experience, pampering your dog with luxurious grooming products, and specialize in keeping their coats healthy and shiny.
+De ervaren professionals van Trimsalon Beau bieden een breed scala aan verzorgingsdiensten voor honden van elk formaat. Ze houden de vacht van uw hond gezond en glanzend met diensten als baden, knippen en nagels knippen. Trimsalon Beau biedt ook zachte verzorging voor katten en kleine dieren, zodat ze zich comfortabel en ontspannen voelen tijdens hun bezoek.
 
 **Contact:**
 
-* **Phone:** [31652325488](tel:31652325488)
-* **Website:** [https://www.spa4dogs.nl/](https://www.spa4dogs.nl/)
+* **Phone:** [31618399058](tel:31618399058)
+* **Website:** [http://www.trimsalonbeau.nl/](http://www.trimsalonbeau.nl/)
 
 **Location:**
-Spa4Dogs is located in Assen, providing convenient access to pet owners in the area. Their location allows them to serve the local community with top-notch pet grooming services.
+Trimsalon Beau is gevestigd in Assen en is dus ideaal voor huisdiereigenaren in de omgeving. Je kunt gemakkelijk online een afspraak maken.
 
 **Gallery:**
-![Photo of Spa4Dogs](https://lh5.googleusercontent.com/p/AF1QipOAVW6UyWlfe_-DOID6DoTmqBFIYvpbrpmKT1aL=w800-h500-k-no)
+![Photo of Trimsalon Beau](https://lh5.googleusercontent.com/p/AF1QipMEHE2z6ykGqGSdNWpIW3YQVkrUbFO2gO1zlznh=w800-h500-k-no)
 
 
 
 **Reviews:**
 
-This business has 22 reviews with an average score of 5.
+Dit bedrijf heeft 2 beoordelingen met een gemiddelde score van 5. 
 
-Please note that the information provided is based on available data and is subject to change. For the most up-to-date information and to schedule an appointment, we recommend visiting their website or contacting Spa4Dogs directly.
+Houd er rekening mee dat de verstrekte informatie gebaseerd is op beschikbare gegevens en mogelijk niet up-to-date of volledig is. Voor de meest accurate en actuele informatie raden we je aan de website van Trimsalon Beau te bezoeken of rechtstreeks contact met hen op te nemen. 
